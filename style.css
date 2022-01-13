@@ -268,7 +268,7 @@ section#Leatest-course {
     align-items: center;
 }
 /* Adding media queries */
-@media only screen and (max-width : 600px) {
+@media only screen and (min-width : 500px) and (max-width : 600px) {
     #header{
         width: 100%;
         background-color: #562EFF;
